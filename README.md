@@ -1,0 +1,1 @@
+# python_code_for_head_first_design_patterns
